@@ -1,0 +1,35 @@
+body{
+  background-color:rgb(121, 19, 19);
+}
+
+/*
+form{
+  box-sizing: border-box;
+  width: 500px;
+
+  background: rgb(17, 36, 201);
+  max-width: 1000px;
+}
+
+
+
+
+
+textarea{
+  resize: vertical;
+  max-height: 600px;
+  min-height: 150px;
+}
+label{
+  width: 100%;
+  display: block;
+  margin: 20px 10px;
+}
+
+
+input,textarea{
+  -webkit-box-sizing:border-box;
+  margin-bottom: 20px
+  border: 1px #ccc;
+}
+*/
